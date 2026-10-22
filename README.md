@@ -13,3 +13,13 @@ crack bcrypt (lateral movement) → privesc via OliveTin (guest-exec come root).
 | `backupScript.sh` | Script di supporto usato nella fase di privesc |
 
 > ⚠️ Solo a scopo educativo e per testing autorizzato.
+
+## Licenza e uso autorizzato
+
+Distribuito sotto licenza [MIT](LICENSE).
+
+Codice proof-of-concept pubblicato a scopo educativo e di ricerca, come
+companion dei writeup su <https://blog.ldsec.it>. Sviluppato ed eseguito
+esclusivamente contro una macchina di laboratorio volutamente vulnerabile, in
+un contesto isolato e autorizzato. Usalo solo su sistemi di cui sei proprietario
+o per i quali hai un'autorizzazione esplicita a eseguire test di sicurezza.
